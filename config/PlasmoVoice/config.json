@@ -11,7 +11,7 @@
   "priorityVolume": 1.0,
   "occlusion": false,
   "speakerMuted": false,
-  "showIcons": 0,
+  "showIcons": 1,
   "micIconPosition": "BOTTOM_CENTER",
   "voiceActivation": false,
   "voiceActivationThreshold": -30.0,
