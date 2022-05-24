@@ -1,37 +1,41 @@
-## Welcome to GitHub Pages
+# Nif Minecraft Wiki
 
-You can use the [editor on GitHub](https://github.com/GamehunterKaan/nif-minecraft/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Nif Minecraft Wiki sayfasına hoşgeldin!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Nif Minecraft nedir?
 
-### Markdown
+Nif Minecraft **Nilüfer Borsa İstanbul Fen Lisesi** öğrencileri tarafından kurulmuş bir modlu Minecraft sunucusudur.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Kurallar
 
-```markdown
-Syntax highlighted code block
+```
+◽Hile Kullanmak Yasaktır.
 
-# Header 1
-## Header 2
-### Header 3
+◽Tehdit edici, küfürlü, örf ve adetlere karşı, nefret dolu ya da çok miktarlarda istenmeyen mesajlar göndermek yasaktır.
 
-- Bulleted
-- List
+◽OP,TP,Gamemode vs. İstemek Yasaktır.
 
-1. Numbered
-2. List
+◽Herhangi Bir Şekilde Oyundan Çıkmakla Tehdit Etmeyin, Görmezden Gelinirsiniz.
 
-**Bold** and _Italic_ and `Code` text
+◽Sunucuya Girdikten Sonra İsminizi Değiştirmeyin.Oyuncu Verilerinizi Kaybedersiniz.
 
-[Link](url) and ![Image](src)
+◽Güvenlik Açıkları ve Bugları Kullanmak Yasaktır.
+
+◽Eğer Sunucuda Bir Bug Bulursanız ya da Kuralları İhlal Eden Bir Oyuncu Görürseniz Lütfen Bize #destek'den Bildirin.
+
+◽#kurallar'ı Okumayanlara Hiçbir Şekilde Destek Verilmeyecektir.
+
+◽#mağaza'yı Kontrol Etmeyi Unutma!
+
+❗**Herkes Kuralları Okumak Zorundadır ve Okumuş Sayılır.**
+
+**IP :** nif.playsurvival.me
 ```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+## Mod Listesi
 
-### Jekyll Themes
+Sunucudaki tüm modları görmek için [tıklayın.](https://github.com/GamehunterKaan/nif-minecraft/tree/main/mods)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/GamehunterKaan/nif-minecraft/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## Katılım
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Sunucumuza katılmak için [discord sunucumuza](https://discord.gg/hpAVftCpgY) katılmanız gerekmektedir.
