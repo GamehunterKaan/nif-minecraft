@@ -1,5 +1,7 @@
 # Nif Minecraft Wiki
 
+![nif](https://github.com/GamehunterKaan/nif-minecraft/raw/gh-pages/nif.jpeg)
+
 Nif Minecraft Wiki sayfasına hoşgeldin!
 
 ## Nif Minecraft nedir?
